@@ -15,7 +15,7 @@
   3. Move to cd client to install client dependencies. 
   4. Move to main server directory to install server dependencies.
   4. Run npm install on both client and server directories in order to install dependencies.
-  5. At this point you can run npm run dev on main directory to start the application 
+  5. At this point you can run "npm run dev" on main server directory to start the application 
 
  
  # Example 
